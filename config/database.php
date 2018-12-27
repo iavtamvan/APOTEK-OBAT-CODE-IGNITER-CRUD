@@ -12,7 +12,7 @@
 // deklarasi parameter koneksi database
 $server   = "localhost";
 $username = "root";
-$password = "root";
+$password = "";
 $database = "i_persediaan_obat";
 
 // koneksi database
